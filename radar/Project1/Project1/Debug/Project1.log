@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Tom\Desktop\csgohacks\gaygaygaygaygay\Project1\Project1\main.cpp(35,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Tom\Desktop\csgohacks\gaygaygaygaygay\Project1\Project1\main.cpp(24): warning C4715: 'GetModule': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Tom\Desktop\csgohacks\gaygaygaygaygay\Project1\Debug\Project1.exe

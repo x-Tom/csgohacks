@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Tom\Desktop\csgohacks\gaygaygaygay\Project1\Project1\main.cpp(25): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Tom\Desktop\csgohacks\gaygaygaygay\Project1\Release\Project1.exe

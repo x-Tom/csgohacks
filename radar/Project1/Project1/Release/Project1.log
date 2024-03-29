@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Tom\Desktop\csgohacks\radar\Project1\Project1\main.cpp(35,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+C:\Users\Tom\Desktop\csgohacks\radar\Project1\Project1\main.cpp(24): warning C4715: 'GetModule': not all control paths return a value
+  13 of 14 functions (92.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Tom\Desktop\csgohacks\radar\Project1\Release\Project1.exe

@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(123,42): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(124,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(159,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(82): message : see declaration of 'Vector3'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(159,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(159): message : see declaration of 'Vector3'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(160,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(159): message : see declaration of 'Vector3'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(178,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(183,8): warning C4101: 'Finish': unreferenced local variable
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(232,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(234,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(244,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(244,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(245,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(245,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(280,37): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(280,29): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(70): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(218): warning C4715: 'FindClosestEnemy': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Debug\Project1.exe

@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(125,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(75): message : see declaration of 'Vector3'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(125,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(125): message : see declaration of 'Vector3'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(126,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(125): message : see declaration of 'Vector3'
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(144,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(159,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(159,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(173,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(173,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(174,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(174,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(203,37): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(203,29): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(206,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Project1\main.cpp(206,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 46 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Tom\Desktop\csgohacks\aimbot_standalone\Project1\Release\Project1.exe
