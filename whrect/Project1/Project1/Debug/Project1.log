@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Tom\Desktop\csgohacks\gaygaygay\Project1\Project1\main.cpp(71,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\gaygaygay\Project1\Project1\main.cpp(71,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\gaygaygay\Project1\Project1\main.cpp(71,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tom\Desktop\csgohacks\gaygaygay\Project1\Project1\main.cpp(71,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Tom\Desktop\csgohacks\gaygaygay\Project1\Debug\Project1.exe
